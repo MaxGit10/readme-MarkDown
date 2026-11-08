@@ -57,4 +57,4 @@ Item    | Value | Quentity
 :-------|:------|---------:
 computer|1000   |3
 phone   |12     |2
-Pipe    |3      |1
+Pipe    |3      |2
